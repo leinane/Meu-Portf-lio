@@ -1,4 +1,24 @@
-Olá! Seja bem-vindo ao meu Portifólio! 
+Olá! Seja bem-vindo ao meu Portifólio!
 
-Este primeiro projeto é uma página em html e css, nela você encontra um Home, que contém minhas informações iniciais, e minhas redes sociais, na outra parte, tem o sobre mim, que contém um pouco mais da minha trajetória e a última tem o meu currículo, com algumas informações profissionais. 
 
+![image](https://github.com/leinane/Meu-Portf-lio/blob/main/assets/WhatsApp%20Image%202024-02-03%20at%2017.24.48.jpeg)
+
+## Ferramentas utilizadas:
+
+\*HTML
+
+\*CSS
+
+\*\* Flex-box
+
+## Feito por:
+
+### leinane Santos
+
+### Linkedin:
+
+https://www.linkedin.com/in/leinane-santos/
+
+```
+
+```
